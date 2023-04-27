@@ -4,5 +4,7 @@
 * 定制性较差
 
 # 效果演示
-
-![](https://ftp.bmp.ovh/imgs/2020/04/6815672694b7cb62.png)
+## 蓝色
+![同济蓝](https://raw.githubusercontent.com/xuestrange/picGoUploader/main/img/20230427114447.png)
+## 紫色
+![南大紫](https://raw.githubusercontent.com/xuestrange/picGoUploader/main/img/20230427114620.png)
